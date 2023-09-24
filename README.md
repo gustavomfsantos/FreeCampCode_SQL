@@ -10,4 +10,7 @@ Project 1: Build a Database containing information about the Universe. The task 
 There is five table, one for each item mentioned before and one additional for special information regarding the soil/atmosphere of the planet.
 The relation between then is a hierarchy type, where Galaxies is top level and Moons are bottom level. Except Galaxies, all others tables has at leas one foreign key.
 
-Project 2:
+Project 2: Build a Database with World Cup Knockout Stages games from 2014 and 2018 editions. Create two tables, one with all games and scores and a second one with
+the teams related to games using bash scripting. After that, build a script with SQL commands to query specific infomations and data.
+
+
