@@ -13,4 +13,7 @@ The relation between then is a hierarchy type, where Galaxies is top level and M
 Project 2: Build a Database with World Cup Knockout Stages games from 2014 and 2018 editions. Create two tables, one with all games and scores and a second one with
 the teams related to games using bash scripting. After that, build a script with SQL commands to query specific infomations and data.
 
+Project 3: Create a Shop Menu where you welcome a customer, offering services options to choose. The program is able to redirect to Menu if a not available option is chosen,
+register the customer if is a new customer and also set an appointment for the service scheduled.
+
 
