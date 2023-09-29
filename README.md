@@ -16,4 +16,6 @@ the teams related to games using bash scripting. After that, build a script with
 Project 3: Create a Shop Menu where you welcome a customer, offering services options to choose. The program is able to redirect to Menu if a not available option is chosen,
 register the customer if is a new customer and also set an appointment for the service scheduled.
 
-
+Project 4: Using nano and git commands, besides SQL and terminal bash already applied knowledge in previous projects, build a Database with some periodic table's elements
+and their properties. Also build a shell file to query the properties of each element in the database relying on the users choice. All of that with git commands to add changes,
+commit files and keep track of logs during all project.
